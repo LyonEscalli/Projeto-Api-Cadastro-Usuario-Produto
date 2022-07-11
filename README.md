@@ -2,7 +2,7 @@ Olá!
 
 Este projeto foi realizado em Julho/2022 como atividade para o curso de Desenvolvimento Web Full Stack da Labenu (Parte de Back-End).
 
-O projeto é a criação de uma Api com a linguagem Typescript que possui as seguintes funcionalidades:
+O projeto é a criação de uma Api com a linguagem Typescript usando Node.js e MySQL que possui as seguintes funcionalidades:
 
 1) Cadastro de novo usuário
 2) Consultar todos os usuários cadastrados
